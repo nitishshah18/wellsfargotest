@@ -1,2 +1,3 @@
 this is second git file
-this line would conflict test
+this line would conflict testthis line would conflict test
+this line would conflict
